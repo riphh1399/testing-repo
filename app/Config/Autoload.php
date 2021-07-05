@@ -1,7 +1,6 @@
 <?php
-
 namespace Config;
-
+$autoload['helper'] = array('url');
 use CodeIgniter\Config\AutoloadConfig;
 
 /**
